@@ -16,7 +16,7 @@ Download the datasets of <br>
 [Office](https://www.cc.gatech.edu/~judy/domainadapt/) <br> 
 [ImageNet](https://www.image-net.org/) <br>
 [Caltech-256](http://www.vision.caltech.edu/Image_Datasets/Caltech256/) <br>
-and put them into the folder "./data/" and modify the path of images in each '.txt' under the folder './data/'.
+and put them into the folder "./data/" and modify the path of images in each '.txt' under the folder './data/'. Note the file imagenet.txt is too big. Please download it at [here](https://drive.google.com/file/d/1aZGNVO4-6yl7L0ulinDPxo11-RDozeBP/view?usp=sharing) and put it into './data/imagenet_caltech/'. 
 ## Domain ID:
 **VisDA-2017**: train (synthetic), validation (real) ==> 0,1 <br>
 **DomainNet**: clipart, painting, real, sketch ==> 0,1,2,3 <br>
