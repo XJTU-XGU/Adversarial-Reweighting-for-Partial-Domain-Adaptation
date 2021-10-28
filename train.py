@@ -137,6 +137,8 @@ def train(args):
 
         ##update weight, loader
         if args.sampler == "weighted_sampler":
+            if args.dset == "domainnet" :
+                args.seed = None
             if i % args.weight_update_interval == 0 and i>0:
                 base_network.train(False)
                 all_source_features, _, _ = get_features(dset_loaders["source_val"], base_network)
