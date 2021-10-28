@@ -252,7 +252,7 @@ if __name__ == "__main__":
     parser.add_argument('--lr', type=float, default=0.001, help="learning rate")
     parser.add_argument('--ent_weight', type=float, default=0.1)
     parser.add_argument('--radius', type=float, default=20.0)
-    parser.add_argument('--root', type=str, default='/data/guxiang/dataset',help="root to data")
+    parser.add_argument('--root', type=str, default='data',help="root to data")
     parser.add_argument('--label_smooth', action='store_true', default=False, help="whether to smooth label")
 
     args = parser.parse_args()
