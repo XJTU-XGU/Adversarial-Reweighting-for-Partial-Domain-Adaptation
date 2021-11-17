@@ -49,11 +49,13 @@ python train.py --dset imagenet_caltech --s 0 --t 1
 ```
 ## Citation:
 ```
-@InProceedings{Gu_2021_NeurIPS,
-author = {Xiang Gu, Xi Yu, Yan Yang, Jian Sun, Zongben Xu},
-title = {Adversarial Reweighting for Partial Domain Adaptation},
-booktitle = {Advances in Neural Information Processing Systems (NeurIPS)},
-year = {2021}
+@inproceedings{
+gu2021adversarial,
+title={Adversarial Reweighting for Partial Domain Adaptation},
+author={Xiang Gu and Xi Yu and Yan Yang and Jian Sun and Zongben Xu},
+booktitle={Thirty-Fifth Conference on Neural Information Processing Systems},
+year={2021},
+url={https://openreview.net/forum?id=f5liPryFRoA}
 }
 ```
 ## Reference code:
