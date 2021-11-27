@@ -64,5 +64,3 @@ https://github.com/tim-learn/BA3US <br>
 https://github.com/XJTU-XGU/RSDA
 ## Contact：
 If you have any problem, feel free to contect xianggu@stu.xjtu.edu.cn.
-## Note
-We are checking the code. It will be finished soon.
