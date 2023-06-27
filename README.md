@@ -1,4 +1,4 @@
-# Adversarial Reweighting for Partial Domain Adaptation
+# Adversarial Reweighting for Partial Domain Adaptation (NeurIPS)
 Code for paper "Xiang Gu, Xi Yu, Yan Yang, Jian Sun, Zongben Xu, [**Adversarial Reweighting for Partial Domain Adaptation**](https://papers.nips.cc/paper/2021/hash/7ce3284b743aefde80ffd9aec500e085-Abstract.html), Conference on Neural Information Processing Systems (NeurIPS), 2021".
 ## Prerequisites:
 python==3.6.13 <br>
