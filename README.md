@@ -1,5 +1,7 @@
 # Adversarial Reweighting for Partial Domain Adaptation (NeurIPS)
 Code for paper "Xiang Gu, Xi Yu, Yan Yang, Jian Sun, Zongben Xu, [**Adversarial Reweighting for Partial Domain Adaptation**](https://papers.nips.cc/paper/2021/hash/7ce3284b743aefde80ffd9aec500e085-Abstract.html), Conference on Neural Information Processing Systems (NeurIPS), 2021".
+
+The code for the extended version ["Adversarial Reweighting with α-Power Maximization: A Theoretically Motivated Approach for Partial Domain Adaptation"](https://github.com/XJTU-XGU/ARPM) is available. Welcome to try it!
 ## Prerequisites:
 python==3.6.13 <br>
 pytorch ==1.5.1 <br>
